@@ -25,4 +25,5 @@ Through this project, I got the opportunity to improve my understanding of JavaS
 
 <img width="1886" height="807" alt="Image" src="https://github.com/user-attachments/assets/9119a4f0-a07a-4c6a-b4f8-56b95382bea5" />
 
-<img width="1900" height="853" alt="Image" src="https://github.com/user-attachments/assets/19f45e6b-6-86ed-b45e9fe740d6" />
+<img width="1900" height="853" alt="Image" src="https://github.com/user-attachments/assets/84b4fe2a-bf75-4df9-8343-a98b008dda4a" />
+
