@@ -21,3 +21,8 @@ In addition to the quiz, there’s a login page where users can enter their emai
 Through this project, I got the opportunity to improve my understanding of JavaScript events, DOM manipulation, and responsive web design. I also learned how to structure a project and test it using just VS Code and my local terminal. EduSphere helped me apply the core concepts I’ve been learning, and I look forward to upgrading it in the future with user registration, video lessons, and backend integration. This project is a good example of how even basic tools can be used to create something useful and functional.
 
 #OUTPUT
+<img width="1906" height="675" alt="Image" src="https://github.com/user-attachments/assets/760db1d2-58b7-4967-8a3a-d2e75155806b" />
+
+<img width="1886" height="807" alt="Image" src="https://github.com/user-attachments/assets/9119a4f0-a07a-4c6a-b4f8-56b95382bea5" />
+
+<img width="1900" height="853" alt="Image" src="https://github.com/user-attachments/assets/19f45e6b-6-86ed-b45e9fe740d6" />
