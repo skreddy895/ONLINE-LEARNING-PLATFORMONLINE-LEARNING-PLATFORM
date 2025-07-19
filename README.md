@@ -1,18 +1,16 @@
 # ONLINE-LEARNING-PLATFORMONLINE-LEARNING-PLATFORM
 
+*COMPANY*: CODTECH IT SOLUTIONS
 
+*NAME*: RAMIREDDY SIVA KARTHIK REDDY
 
+*INTERN ID*: CTO4DG1137
 
+*DOMAIN*: FRONT END DEVELOPMENT
 
+*DURATION*: 4 WEEKS
 
-
-
-
-
-
-
-
-
+*MENTOR*:NEELA SANTHOSH
 
 EduSphere is a beginner-friendly online learning platform that I created as part of Task 2 during my internship at CodTech. This project is a redesigned version of a previous platform I made called CyberLearn, but EduSphere has been developed especially for a friend with a different name, layout, color scheme, and quiz content. The purpose of this project was to practice creating a complete web-based learning interface using only HTML, CSS, and JavaScript without using any external libraries or frameworks.
 
@@ -22,4 +20,4 @@ In addition to the quiz, there’s a login page where users can enter their emai
 
 Through this project, I got the opportunity to improve my understanding of JavaScript events, DOM manipulation, and responsive web design. I also learned how to structure a project and test it using just VS Code and my local terminal. EduSphere helped me apply the core concepts I’ve been learning, and I look forward to upgrading it in the future with user registration, video lessons, and backend integration. This project is a good example of how even basic tools can be used to create something useful and functional.
 
-#OUTPUT Image Image
+#OUTPUT
